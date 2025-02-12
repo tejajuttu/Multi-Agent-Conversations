@@ -1,4 +1,5 @@
 .env
 .venv/
 *.pub
+.SSH.pub
 .SSH
